@@ -10,12 +10,12 @@ Ground Truth of KITTI dataset (odometry benchmark) for loop closure detection or
 
 
 ## Related Publications
-**Please cite our work if you want to use this groundtruth.
-@article{zhang2018graph,
+**Please consider citing our work if you want to use this groundtruth.
+  @article{zhang2018graph,
   title={Graph-Based Place Recognition in Image Sequences with CNN Features},
   author={Zhang, Xiwu and Wang, Lei and Zhao, Yan and Su, Yan},
   journal={Journal of Intelligent \& Robotic Systems},
   pages={1--15},
   year={2018},
   publisher={Springer}
-}
+  }
